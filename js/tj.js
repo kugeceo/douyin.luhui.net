@@ -1,0 +1,10 @@
+document.writeln("<script charset=\'UTF-8\' id=\'LA_COLLECT\' src=\'//s11.cnzz.com/z_stat.php?id=610720&web_id=610720\'></script>");
+document.writeln("<script>");
+document.writeln("var _hmt = _hmt || [];");
+document.writeln("(function() {");
+document.writeln("  var hm = document.createElement(\'script\');");
+document.writeln("  hm.src = \'//s11.cnzz.com/z_stat.php?id=610720&web_id=610720\';");
+document.writeln("  var s = document.getElementsByTagName(\'script\')[0]; ");
+document.writeln("  s.parentNode.insertBefore(hm, s);");
+document.writeln("})();");
+document.writeln("</script>");

@@ -1,0 +1,37 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 13/09/2017 10:02
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("http://www.qiugou.net.cn/images/Flaticon.eot");
+  src: url("http://www.qiugou.net.cn/images/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("http://www.qiugou.net.cn/images/Flaticon.woff") format("woff"),
+       url("http://www.qiugou.net.cn/images/Flaticon.ttf") format("truetype"),
+       url("http://www.qiugou.net.cn/images/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("http://www.qiugou.net.cn/images/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-wallet:before { content: "\f100"; }
+.flaticon-computer-security:before { content: "\f101"; }
+.flaticon-law:before { content: "\f102"; }
+.flaticon-jury:before { content: "\f103"; }
+.flaticon-courthouse:before { content: "\f104"; }
+.flaticon-handcuffs:before { content: "\f105"; }
