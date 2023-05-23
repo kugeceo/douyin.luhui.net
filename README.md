@@ -14,7 +14,9 @@ This image automatically updates to reflect the current state of your latest pro
 Deploy status badge　部署状态徽章
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/afb9e373-be6b-4aa5-8b22-0b3e39d5637a/deploy-status)]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e0c07b37-8ada-492c-bfea-549e20c37202/deploy-status)](https://app.netlify.com/sites/douyins/deploys)
+
+http://douyin.guanfu.org/
 
 
 netlify免费演示
